@@ -52,7 +52,7 @@
     }
     .container{
         width: 80%;
-        /* height: 400px; */
+        height: 400px;
         background-color: #9b59b6;
         margin: 50px auto;
         border-radius:10px;
@@ -68,6 +68,7 @@
         border-radius: 20px;
         padding: 20px;
         color: black;
+        font-size: 15px;
     }
     .quote{
         margin: 0;
