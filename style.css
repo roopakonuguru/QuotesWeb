@@ -68,7 +68,8 @@
         border-radius: 20px;
         padding: 20px;
         color: black;
-        font-size: 15px;
+        font-size: 10px;
+        font-weight: 300;
     }
     .quote{
         margin: 0;
@@ -90,7 +91,7 @@
         font-size: 18px;
         border-radius: 5px;
         border: none;
-        font-weight: bold;   
+        font-weight: 400;   
     }
     
     .generate{
